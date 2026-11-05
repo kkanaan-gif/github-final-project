@@ -1,5 +1,4 @@
-# github-final-project# 
-Simple Interest Calculator
+# Simple Interest Calculator
 
 A simple calculator that calculates simple interest based on the principal amount, annual interest rate, and time period in years.
 
