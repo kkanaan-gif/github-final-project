@@ -13,3 +13,4 @@ Simple Interest = (p × r × t) / 100
 
 ## Description
 This project demonstrates a basic simple interest calculator using Git and GitHub.
+This repository demonstrates Git and GitHub workflows, including branching, committing, merging, and reverting changes.
